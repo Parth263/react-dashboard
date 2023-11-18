@@ -17,7 +17,7 @@ function Dashboard() {
       </div>
 
       {/* Graph component */}
-      <div className="flex space-x-8 py-6">
+      <div className="flex space-x-8 py-5">
         <div className="flex flex-col rounded-md border w-full p-8 justify-center">
           Expenses Graph
           <Chart />
